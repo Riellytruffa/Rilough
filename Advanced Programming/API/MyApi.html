@@ -1,0 +1,21 @@
+<script>
+  const postsPromise = fetch('https://api.dailysmarty.com/post');
+  console.log('starting api');
+  console.log(postsPromise);
+  console.log('Afterwards');
+
+  postsPromise
+    .then(data => data.json())
+    .then(data => {
+      data.posts.forEach((item) => {
+        console.log(item.url_for_post);
+      });
+    })
+
+
+
+    .catch((err) => {
+      console.log(err);
+    });
+
+  </script>
