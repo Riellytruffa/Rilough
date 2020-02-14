@@ -1,3 +1,12 @@
 # My homepage 
 
 ## What is the reasoning behind this homepage? 
+My homepage is just a little fun project for advanced programming that I am constantly making experimental changes to to further my knowledge of programming. 
+## What programming languages have been used? 
+The main parts of the homepage are HTML and CSS but I do have a few JavaScript files for experimental purposes.
+## What information is on the page? 
+- Interest/Hobbies 
+- Class information 
+- What I look like 
+- Music Ive made 
+- A movie reveiw API
