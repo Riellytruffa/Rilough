@@ -1,3 +1,7 @@
+# Greetings! 
+
+image: https://scontent.fbos1-2.fna.fbcdn.net/v/t1.0-9/p960x960/53020148_788620084831221_1738862082956197888_o.jpg?_nc_cat=104&_nc_ohc=NvhWx_dBt5wAX_qm-Oh&_nc_ht=scontent.fbos1-2.fna&_nc_tp=6&oh=4a89e3fd8df39c1e2ec56c777fb1c958&oe=5F03AB91[alt=logo,width=250px][orientation=portrait]
+
 # My homepage 
 
 ## What is the reasoning behind this homepage? 
